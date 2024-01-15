@@ -6,7 +6,7 @@
 | Nom & Prénoms       | Filière |
 |---------------------|---------|
 | TIGA Abdoul-Wakilou | GL      |
-| AYHI Judicael       | GL      |
+| AHYI Judicael       | GL      |
 
 
 ## Consignes
